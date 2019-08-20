@@ -17,7 +17,7 @@ classifiers = ['Development Status :: 4 - Beta',
 
 setup(
     name         = 'FaBoColor_S11059',
-    version      = '1.0.2',
+    version      = '1.0.3',
     author       = 'FaBo',
     author_email = 'info@fabo.io',
     description  = "This is a library for the FaBo Color I2C Brick.",

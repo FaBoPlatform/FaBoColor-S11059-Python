@@ -190,9 +190,8 @@ if __name__ == "__main__":
 
     while True:
         rgb = color.read()
-        print "r =", (rgb['r']),
-        print " g =", (rgb['g']),
-        print " B =", (rgb['b']),
-        print " ir =", (rgb['ir'])
-        print
+        print("r =", (rgb['r']))
+        print(" g =", (rgb['g']))
+        print(" B =", (rgb['b']))
+        print(" ir =", (rgb['ir']))
         time.sleep(1)
